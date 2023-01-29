@@ -17,3 +17,7 @@ subreddit: the community/subreddit name of the comment
 This dataset is useful to get insight about the public take on ChatGPT and also for text mining, text analysis, text visualizations and other tasks like clustering and so on.
 
 Please note that this dataset is not cleaned or preprocessed so if you want to get your hands dirty with data, it's a good practice to level up your skills in data cleaning too :)
+
+For more details (and upcoming notebooks regarding this dataset) you can check the below link:
+
+https://www.kaggle.com/datasets/armitaraz/chatgpt-reddit
