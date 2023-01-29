@@ -2,7 +2,7 @@
 Reddit comments about ChatGPT.
 
 Here you can find about 50K comments on Reddit website regarding ChatGPT .
-The comments are gathered from 1000 Reddit's Posts from 4 subreddits.
+The comments are gathered from Reddit's Posts from 4 subreddits.
 
 The data includes comment_id, comment_parent_id, comment_body and subreddit
 
